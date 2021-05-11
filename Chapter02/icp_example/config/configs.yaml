@@ -1,0 +1,4 @@
+laser_topic: scan #scan ros topic to subscribe to
+pose_topic: icp_pose #pose ros topic to which to publish
+odom_topic: odom
+show_plot: true

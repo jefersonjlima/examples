@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+	<param name="laser_topic" type="str" value="scan"/>
+	<param name="pose_topic" type="str" value="icp_pose"/>
+	<param name="odom_topic" type="str" value="odom"/>
+	<param name="show_plot" type="bool" value="true"/>
+	<node pkg="icp_example" type="icp_pose.py" name="ICP_node" output="screen" clear_params="true"></node>
+</launch>
