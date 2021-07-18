@@ -1,0 +1,3 @@
+[submodule "Chapter03/ros_examples"]
+	path = Chapter03/ros_examples
+	url = git@gitlab.com:cursoseaulas/ros_examples.git
