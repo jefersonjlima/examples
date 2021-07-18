@@ -1,3 +1,6 @@
 [submodule "Chapter03/ros_examples"]
 	path = Chapter03/ros_examples
 	url = https://gitlab.com/cursoseaulas/ros_examples.git
+[submodule "ros_examples"]
+	path = ros_examples
+	url = https://gitlab.com/cursoseaulas/ros_examples.git
